@@ -1,0 +1,7 @@
+path: road-sign-detection
+train: images/train
+val: images/val
+test: images/test
+
+nc: 4
+names: ["trafficlight", "stop", "speedlimit", "crosswalk"]
